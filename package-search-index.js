@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.edu.utfpr.camilo.prova_testes"},{"l":"br.edu.utfpr.camilo.prova_testes.formas.triangulos"},{"l":"br.edu.utfpr.camilo.prova_testes.formas.triangulos.exceptions"}];updateSearchResults();
